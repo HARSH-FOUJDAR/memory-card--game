@@ -41,6 +41,8 @@ h1 {
   grid-template-columns: repeat(4, 120px);
   grid-gap: 16px;
   justify-content: center;
+  position: relative;
+  bottom: 8rem;
 }
 
 /* Card styles */
